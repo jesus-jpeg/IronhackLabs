@@ -6,7 +6,7 @@ Here you will find all the Labs I did during my 24 weeks Data Analytics Bootcamp
 
 ### Unit 1 | Intro to Python
 
-The aim of this unit is to set the fundamentals of Data Analysis: How to ask questions; how to interpret questions; how to read, clean, and explore data; what is Machine Learning and how can it help decision making; how to prepare the data for modeling and fit a linear model, how did I validate the model I built and why did I choose it over others (notions of "what does good look like"); what do the results mean; what is the business relevance of this analysis.
+The aim of [Unit 1](https://github.com/jesus-jpeg/Ironhack-Labs/tree/main/Unit%201) is to set the fundamentals of Data Analysis: How to ask questions; how to interpret questions; how to read, clean, and explore data; what is Machine Learning and how can it help decision making; how to prepare the data for modeling and fit a linear model, how did I validate the model I built and why did I choose it over others (notions of "what does good look like"); what do the results mean; what is the business relevance of this analysis.
 
 ### Unit 2 | SQL
 
