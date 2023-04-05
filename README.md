@@ -1,4 +1,4 @@
-![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
+![ironhack_logoazul](https://user-images.githubusercontent.com/121881874/230220207-9cc3b502-8ef2-46b0-8887-523714632b91.png)
 # Ironhack Labs
 
 Here you will find all the Labs I did during my 24 weeks Data Analytics Bootcamp at Ironhack.
