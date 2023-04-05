@@ -10,14 +10,14 @@ The aim of [Unit 1](https://github.com/jesus-jpeg/Ironhack-Labs/tree/main/Unit%2
 
 ### Unit 2 | SQL
 
-The aim of this unit is to learn how to extract and analyze data stored in databases: recognizing two main different types of Databases, identifying the power of SQL, understanding how to query a structured database, manipulating categorical variables, identifying data anomalies and normalizing data, gathering data from various sources, applying window functions, interpreting Entity relations diagrams (ERD) and a brief intro to classification models.
+The aim of [Unit 2](https://github.com/jesus-jpeg/Ironhack-Labs/tree/main/Unit%202) is to learn how to extract and analyze data stored in databases: recognizing two main different types of Databases, identifying the power of SQL, understanding how to query a structured database, manipulating categorical variables, identifying data anomalies and normalizing data, gathering data from various sources, applying window functions, interpreting Entity relations diagrams (ERD) and a brief intro to classification models.
 
 ### Unit 3 | Connecting SQL and Python
 
-The aim of this unit is to boost SQL skills to query complex databases: joining multiple tables, normalising databases and performing nested subqueries. We will also introduce multi class classification and the problem of class imbalance. This unit works as a continuation of the previous unit (2). The output is a classification model built using Python. The students will reinforce their understanding of the whole data process.
+The aim of [Unit 3](https://github.com/jesus-jpeg/Ironhack-Labs/tree/main/Unit%203) is to boost SQL skills to query complex databases: joining multiple tables, normalising databases and performing nested subqueries. We will also introduce multi class classification and the problem of class imbalance. This unit works as a continuation of the previous unit (2). The output is a classification model built using Python. The students will reinforce their understanding of the whole data process.
 
 ### Unit 4 | Machine Learning
 
-The aim of this unit is to expand their comprehension of the Data Analysis toolkit and supervised Machine learning. They are going to expand their data cleaning skills with RegEx, extract features from datasets and tune a KNN approach/methodology considering the bias-variance trade-off.
+The aim of [Unit 4](https://github.com/jesus-jpeg/Ironhack-Labs/tree/main/Unit%204) is to expand their comprehension of the Data Analysis toolkit and supervised Machine learning. They are going to expand their data cleaning skills with RegEx, extract features from datasets and tune a KNN approach/methodology considering the bias-variance trade-off.
 
 We will also get introduced to Business Intelligence’s main concepts and tools.
