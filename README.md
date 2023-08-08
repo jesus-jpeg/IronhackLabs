@@ -24,3 +24,28 @@ The aim of [Unit 3](https://github.com/jesus-jpeg/Ironhack-Labs/tree/main/Unit%2
 The aim of [Unit 4](https://github.com/jesus-jpeg/Ironhack-Labs/tree/main/Unit%204) is to expand their comprehension of the Data Analysis toolkit and supervised Machine learning. They are going to expand their data cleaning skills with RegEx, extract features from datasets and tune a KNN approach/methodology considering the bias-variance trade-off.
 
 We will also get introduced to Business Intelligence’s main concepts and tools.
+
+### Unit 5 | Mid Project
+
+The students will choose their challenge, from both algorithms we learned in the past 4 units. The project briefs are optimized for their portfolio.
+For the PT format, unit 5 extends with one extra mini-project that is scheduled right after Unit 1. The aim of this mini project is to foster autonomy, project management skills, and problem-solving at an early stage in the program.
+
+### Unit 6 | Advanded Data Analytics
+
+The aim of this unit is to boost their Data Analysis skills and consolidate advanced use of the main tech Stack: mapping and understanding the business problem, using advanced functions and detailed expression in their code, optimizing their process using stored procedures in SQL, using excel macros to automate some spreadsheet operations, and finally creating dashboards to visualize results.
+
+### Unit 7 | Data Engineering & Statistics
+
+The aim of this unit is to take students' understanding of the logic behind the engineering just one level higher! A lot of the effort in this unit is critical, deep, thinking. We’ll be introducing ensemble methods (specifically tree-based algorithms) and deal with high-dimensional datasets. An important inclusion in the ML workflow, is hypothesis testing (including ANOVA).
+
+In this unit, the class will find opoportinities for debate, critical thinking and deep reflection.
+
+### Unit 8 | Webscrapping & API
+
+The aim of this unit is to polish their data analytics and engineering skills by performing an end-to-end data product: we will create a program that takes an input from the user and automatically collects data from the internet through web scraping and APIs; then it goes through a clustering model and finally returns an output back to the user. They will implement agile methodologies to develop the product and finally they will “sell it” with an engaging presentation
+
+
+### Unit 9 | Final Project
+
+This is the end of the Bootcamp and the beginning of your career in Data Analytics! Students will complete a full-circle Data Analysis project going through all the process and applying what we've studied in the course.
+
